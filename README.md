@@ -9,11 +9,9 @@ Has the investment in transfer fees been a major factor?
 hypothesis：Financial investment is one of the reasons for City's success, but there are other important reasons.
 This project analyses the causes of Manchester City's excellent competitive performance in the last decade by collecting, analysing and visualising playing and financial data about the club over the last decade.
 ## Data Requirement
-playing data: results, goals scored, conceded, possession rate,weather.
-
-Financial data: player transfer fees, the club's annual income and expenditure.
-
-Tactical data: different tactical setups used in the game.
+### playing data: results, goals scored, conceded, possession rate,weather.
+### Financial data: player transfer fees, the club's annual income and expenditure.
+### Tactical data: different tactical setups used in the game.
 ## Tools and methods 
 Data collection:collect data from online databases (e.g. https://www.statista.com/topics/9454/manchester-city/#topicOverview)
 Statistic analysis：Use Python(Pandas) to analyze data.
